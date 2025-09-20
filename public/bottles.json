@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "brand": "Aquafina",
+    "sizeML": 500,
+    "material": "Plastic",
+    "reusable": false,
+    "priceUSD": 0.99
+  },
+  {
+    "id": 2,
+    "brand": "Evian",
+    "sizeML": 1000,
+    "material": "Plastic",
+    "reusable": false,
+    "priceUSD": 1.99
+  },
+  {
+    "id": 3,
+    "brand": "Nestlé Pure Life",
+    "sizeML": 1500,
+    "material": "Plastic",
+    "reusable": false,
+    "priceUSD": 2.49
+  },
+  {
+    "id": 4,
+    "brand": "Hydro Flask",
+    "sizeML": 750,
+    "material": "Stainless Steel",
+    "reusable": true,
+    "priceUSD": 39.99
+  },
+  {
+    "id": 5,
+    "brand": "Nalgene",
+    "sizeML": 1000,
+    "material": "Tritan Plastic",
+    "reusable": true,
+    "priceUSD": 15.99
+  },
+  {
+    "id": 6,
+    "brand": "CamelBak",
+    "sizeML": 700,
+    "material": "Stainless Steel",
+    "reusable": true,
+    "priceUSD": 29.99
+  },
+  {
+    "id": 7,
+    "brand": "S'well",
+    "sizeML": 500,
+    "material": "Stainless Steel",
+    "reusable": true,
+    "priceUSD": 25.99
+  },
+  {
+    "id": 8,
+    "brand": "Brita",
+    "sizeML": 600,
+    "material": "Plastic with Filter",
+    "reusable": true,
+    "priceUSD": 19.99
+  },
+  {
+    "id": 9,
+    "brand": "Contigo",
+    "sizeML": 720,
+    "material": "Plastic",
+    "reusable": true,
+    "priceUSD": 14.99
+  },
+  {
+    "id": 10,
+    "brand": "Lifefactory",
+    "sizeML": 650,
+    "material": "Glass with Silicone Sleeve",
+    "reusable": true,
+    "priceUSD": 22.49
+  }
+]
